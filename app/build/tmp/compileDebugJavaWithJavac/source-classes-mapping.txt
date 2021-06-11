@@ -1,0 +1,16 @@
+com/example/listapersonagem/model/Personagem.java
+ com.example.listapersonagem.model.Personagem
+com/example/listapersonagem/ui/activities/ListaPersonagemActivity.java
+ com.example.listapersonagem.ui.activities.ListaPersonagemActivity
+ com.example.listapersonagem.ui.activities.ListaPersonagemActivity$1
+ com.example.listapersonagem.ui.activities.ListaPersonagemActivity$2
+ com.example.listapersonagem.ui.activities.ListaPersonagemActivity$3
+com/example/listapersonagem/dao/PersonagemDAO.java
+ com.example.listapersonagem.dao.PersonagemDAO
+com/example/listapersonagem/ui/activities/FormularioPersonagemActivity.java
+ com.example.listapersonagem.ui.activities.FormularioPersonagemActivity
+ com.example.listapersonagem.ui.activities.FormularioPersonagemActivity$1
+com/example/listapersonagem/BuildConfig.java
+ com.example.listapersonagem.BuildConfig
+com/example/listapersonagem/ui/activities/ConstantesActivities.java
+ com.example.listapersonagem.ui.activities.ConstantesActivities
